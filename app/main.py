@@ -26,4 +26,3 @@ sorted_variables = {
     ]
 }
 print(sorted_variables)
-
